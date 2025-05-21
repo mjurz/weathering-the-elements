@@ -1,3 +1,11 @@
+# First Step
+
+Create a `.env` file in the root directory and add the OpenWeather API Key using the following environment variable format:
+
+```bash 
+NUXT_PUBLIC_OPENWEATHER_API_KEY=`<YOUR_API_KEY>`
+```
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
